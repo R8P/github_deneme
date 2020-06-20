@@ -1,0 +1,9 @@
+*{padding: 0; margin:0;}
+
+#sectionOne .container{height: 500px; background: #574c95;}
+#sectionOne .buttons{height: 500px; background: #414466; padding-top: 50px;}
+#sectionOne button{margin-bottom: 30px;}
+#sectionOne .areas{padding: 0;}
+#colorArea{ height: 250px; background: #626bcf; text-align: center; }
+#colorArea .colorName{text-align: center; font-size: 40px; padding-top: 80px; display: inline-block; font-weight: 900;}
+#textArea{text-align: center;}
